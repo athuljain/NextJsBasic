@@ -8,6 +8,7 @@ export default function ProductId(){
     
     return(
         <div>
+            
 <h1>Product Id: {productId}</h1>
 
         </div>
